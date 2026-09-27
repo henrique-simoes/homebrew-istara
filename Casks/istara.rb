@@ -1,6 +1,6 @@
 cask "istara" do
-  version "2026.03.30.6"
-  sha256 "0b65d48458e8d8b4146b220e6b90ee1c62759711511d25ce9db2372a06fa26a3"
+  version "2026.09.27.4"
+  sha256 "1f9b550f361c62a8ce60825e1f0b61ca2cbd4ab4abf004d4f4a96fe8c73c3500"
 
   url "https://github.com/henrique-simoes/Istara/releases/download/v#{version}/Istara-#{version}.dmg",
       verified: "github.com/henrique-simoes/Istara/"
